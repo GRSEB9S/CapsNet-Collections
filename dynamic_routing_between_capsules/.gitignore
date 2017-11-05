@@ -3,13 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-data*
-.ropeproject
-logdir*
-
-.idea
-
-
 # C extensions
 *.so
 

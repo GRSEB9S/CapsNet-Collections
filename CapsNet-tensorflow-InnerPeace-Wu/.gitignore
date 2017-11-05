@@ -1,14 +1,13 @@
+# new added
+output/
+tensorboard/
+.idea/
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
-data*
-.ropeproject
-logdir*
-
-.idea
-
 
 # C extensions
 *.so

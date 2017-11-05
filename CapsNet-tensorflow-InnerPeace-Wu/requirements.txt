@@ -1,0 +1,6 @@
+six>=1.11
+matplotlib>=2.0.2
+numpy>=1.7.1
+scipy>=0.13.2
+easydict>=1.6
+tqdm>=4.17.1
