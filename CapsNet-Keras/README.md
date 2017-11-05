@@ -130,4 +130,5 @@ The result by launching
   
 ## Acknowledgement
 [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
+
 [“Understanding Dynamic Routing between Capsules” - Jonathan Hui blog](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/)
